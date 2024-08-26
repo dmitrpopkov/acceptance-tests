@@ -1,1 +1,1 @@
-FROM quay.io/giantswarm/helloworld:0.2.0
+FROM quay.io/giantswarm/helloworld:0.2.1@sha256:c00f5fc1ef545abdf1a67cb3101a175226056eb30e603cafe02657484cb5f4cc
